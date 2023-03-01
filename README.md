@@ -1,5 +1,10 @@
-### DR
-![](https://komarev.com/ghpvc/?username=qetdr&color=blue)
+<h1 align="center">Hi, it's DR 👋</h1>
+<center>
+<h3 align="center">MSc Data Science Student @UniTartu</h3>
+</center>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=qetdr&color=blue" alt="qetdr" /> </p>
+
 
 <!--
 **qetdr/qetdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +19,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+https://www.sitepoint.com/github-profile-readme/
 -->
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=qetdr&mode=weekly)](https://git.io/streak-stats)
