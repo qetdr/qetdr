@@ -1,7 +1,4 @@
 <h1 align="center">Hi, it's DR 👋</h1>
-<center>
-<h3 align="center">MSc Data Science Student @UniTartu</h3>
-</center>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qetdr&color=blue" alt="qetdr" /> </p>
 
