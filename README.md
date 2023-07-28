@@ -1,5 +1,6 @@
 <h1 align="center">Hi, it's DR 👋</h1>
 <h3 align="center"> MSc in Data Science | PhD in Psychology </h3>
+<p align="center">This account is for my private projects.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qetdr&color=blue" alt="qetdr" /> </p>
 
